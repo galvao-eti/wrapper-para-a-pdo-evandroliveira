@@ -7,6 +7,7 @@ require "../autoload.php";
 
 use Turma3\wrapperCategory;
 
+
 $Category = new wrapperCategory();
 
 if ($_GET) {

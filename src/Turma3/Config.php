@@ -4,6 +4,7 @@ namespace Turma3;
 
 class Config
 {
+    
     public $type;
     public $host;
     public $base;

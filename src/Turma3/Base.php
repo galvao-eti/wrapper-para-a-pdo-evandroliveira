@@ -18,6 +18,7 @@ class Base
      */
     public function __construct($config)
     {
+        
         $this->connect($config->dsn, $config->user, $config->pass);
     }
 
